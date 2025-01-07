@@ -1,3 +1,3 @@
 # Lab_FML
 
-Please refer to _LAB_FML presentazione_ for more details. 
+Please refer to _XCLIP attention.pdf_ for more details. 
